@@ -27,4 +27,4 @@ The dashboard provides insights into the real estate market using interactive ch
 - **Python / Pandas** for data preprocessing
 - **CSV/Excel dataset** of Islamabad property listings
 
-
+**This data has been taken from Open Data Pakistan.**
